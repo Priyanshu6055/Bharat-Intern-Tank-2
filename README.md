@@ -30,7 +30,7 @@ The Temperature Converter lets users input temperature values and instantly conv
 
 - Practical experience with JavaScript for interactive calculations  
 - Handling user inputs and dynamic content updates  
-- Building responsive and clean UI layouts with HTML and CSS
+- Building responsive and clean UI layouts with HTML and CSS 
 
 ---
 
